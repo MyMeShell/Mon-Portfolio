@@ -38,3 +38,16 @@ header {
     border: none;
     cursor: pointer;
 }
+
+.lien-survol {
+    transition: color 0.3s ease; 
+}
+  
+.lien-survol:hover {
+    color: #ff0000;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
